@@ -25,25 +25,8 @@ Whether you are testing your own server infrastructure or simulating various net
 To get started, clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/Fdydhchxy54645/Minecraft-Load-Hammer.git```
+git clone https://github.com/Fdydhchxy54645/Minecraft-Load-Hammer.git
+Then, navigate into the project directory:
+
 ```bash
-cd Minecraft-Load-Hammer```
-```bash
-python --version``` or ```bash
-python3 --version```
-```bash
-python minecraft_load_hammer.py``` or ```bash
-python3 minecraft_load_hammer.py```
-
-
-Disclaimer:
-Minecraft Load Hammer is intended for educational purposes only. The author does not take responsibility for any damage or disruption caused by using this tool. The use of this tool without permission on servers you do not own or control may violate terms of service agreements and potentially local laws.
-
-Server Downtime: Stress testing can cause unexpected server crashes, lag, or downtime. Use it only on servers you have permission to test.
-Performance Degradation: Running a load test can severely impact server performance, especially if testing with many threads or large data sizes.
-Network Congestion: Excessive load testing can also impact the broader network infrastructure. Be sure to conduct tests in a controlled environment.
-Always obtain explicit permission before running tests on third-party servers.
-
-
-License:
-This project is licensed under the MIT License. See the LICENSE file for more details.
+cd Minecraft-Load-Hammer
