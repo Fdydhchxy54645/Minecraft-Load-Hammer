@@ -26,9 +26,14 @@ To get started, clone this repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/Fdydhchxy54645/Minecraft-Load-Hammer.git```
-```cd Minecraft-Load-Hammer```
-```python --version``` or ```python3 --version```
-```python minecraft_load_hammer.py``` or ```python3 minecraft_load_hammer.py```
+```bash
+cd Minecraft-Load-Hammer```
+```bash
+python --version``` or ```bash
+python3 --version```
+```bash
+python minecraft_load_hammer.py``` or ```bash
+python3 minecraft_load_hammer.py```
 
 
 Disclaimer:
