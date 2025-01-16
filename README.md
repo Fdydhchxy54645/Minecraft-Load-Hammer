@@ -26,7 +26,19 @@ To get started, clone this repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/Fdydhchxy54645/Minecraft-Load-Hammer.git
-Then, navigate into the project directory:
+```
+
+### 2. navigate into the project directory:
 
 ```bash
 cd Minecraft-Load-Hammer
+```
+### 3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+    
+### 4.Run Script:
+    ```bash
+    python3 MCLM.py
+    ```
