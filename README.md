@@ -34,11 +34,11 @@ git clone https://github.com/Fdydhchxy54645/Minecraft-Load-Hammer.git
 cd Minecraft-Load-Hammer
 ```
 ### 3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+```
     
 ### 4.Run Script:
-    ```bash
-    python3 MCLM.py
-    ```
+```bash
+python3 MCLM.py
+```
